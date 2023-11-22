@@ -1,4 +1,7 @@
+**Демонстрационная версия модели в streamlit:**
+
 https://appappcarspy-wdcmw6gqhcokgtdqpsuytg.streamlit.app/
+
 **Цель проекта**
 Разработать модель, предсказывающую стоимость авто на вторичном рынке. Метрикой оценки является MAPE - Mean Absolute Percentage Error.
 
