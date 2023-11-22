@@ -1,7 +1,4 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
 model.pkl filter=lfs diff=lfs merge=lfs -text
-*.xls filter=lfs diff=lfs merge=lfs -text
-df_last.xls filter=lfs diff=lfs merge=lfs -text
-*.xlsx filter=lfs diff=lfs merge=lfs -text
-df_last.xlsx filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+df_last.csv filter=lfs diff=lfs merge=lfs -text
