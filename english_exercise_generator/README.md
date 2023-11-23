@@ -1,8 +1,7 @@
 # Генератор упражнений по английскому языку
 
-**Демонстрационный вариант приложения в streamlit:**
 
-https://appapppy-4szqiygthaif9uksi5q8w2.streamlit.app/
+[streamlit](https://appapppy-4szqiygthaif9uksi5q8w2.streamlit.app/)
 
 **Цель проекта:**
 Создать приложение для генерации упражнений по английскому языку на основе различных текстов.
