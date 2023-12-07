@@ -1,6 +1,6 @@
 # Предсказание стоимости авто на вторичном рынке
 
-[streamlit](https://appappcarspy-wdcmw6gqhcokgtdqpsuytg.streamlit.app/) [ipynb](https://github.com/DariaLavrenuik/Portfolio/blob/main/used_cars_price_prediction/notebook_cars.ipynb)
+[ipynb](https://github.com/DariaLavrenuik/Portfolio/blob/main/used_cars_price_prediction/notebook_cars.ipynb)
 
 
 ### Описание проекта:
